@@ -4,9 +4,9 @@ A full-stack Airbnb project is a web application that copies the core functional
 # 🏡 Airbnb Clone  
 
 ## Footer
-![Airbnb Clone Screenshot](https://github.com/ayushkashyap402/Full-Stack-Airbnb-Project/blob/main/public/images/project-screensort.png)
+![Airbnb Clone Screenshot](https://github.com/OSAMA787898/Full-Stack-Airbnb-Project/blob/main/images/image1.jpeg)
 ## Navbar
-![Airbnb Clone Screenshot](https://github.com/ayushkashyap402/Full-Stack-Airbnb-Project/blob/main/public/images/project-screensort2.png)
+![Airbnb Clone Screenshot](https://github.com/OSAMA787898/Full-Stack-Airbnb-Project/blob/main/images/image2.jpeg)
 
 ## 📌 Project Overview  
 This project is a **full-stack web application** that replicates the **core functionality of Airbnb**.  
