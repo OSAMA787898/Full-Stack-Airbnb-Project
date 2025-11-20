@@ -1,5 +1,5 @@
 # Full-Stack-Airbnb-Project
-A full-stack Airbnb project is a web application that copies the core functionality of Airbnb. It allows users to search for accommodations, view details, make bookings, and manage their listings. 
+A full-stack Airbnb project is a web application that replicates the core functionality of Airbnb. It allows users to search for accommodations, view property details, make bookings, and manage their own listings. We have also implemented this full-stack system using the Model–View–Controller (MVC) framework, ensuring a clean architecture, organized code structure, and efficient separation of concerns.
 <br />
 # 🏡 Airbnb Clone  
 
